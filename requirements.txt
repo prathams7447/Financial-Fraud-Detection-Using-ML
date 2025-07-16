@@ -1,0 +1,23 @@
+# Data Science & ML
+numpy==1.24.3
+pandas==2.0.2
+scikit-learn==1.2.2
+xgboost==1.7.5
+lightgbm==4.1.0
+catboost==1.2.2
+imbalanced-learn==0.10.1
+joblib==1.2.0
+shap==0.41.0
+
+# Streaming & Messaging
+kafka-python==2.0.2
+twilio==8.5.0
+
+# Web & API
+flask==2.0.1
+requests==2.31.0
+
+# Blockchain
+web3==6.5.0
+py-solc-x==1.1.1
+python-dotenv==1.0.0
